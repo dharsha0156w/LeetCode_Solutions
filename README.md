@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/dharsha0156w/LeetCode_Solutions/tree/master/0007-reverse-integer) |
 | [3870-count-commas-in-range](https://github.com/dharsha0156w/LeetCode_Solutions/tree/master/3870-count-commas-in-range) |
 ## Array
 |  |
